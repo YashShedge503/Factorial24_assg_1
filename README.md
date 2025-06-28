@@ -2,6 +2,7 @@
 # Fashion MNIST Image Classifier
 
 This project demonstrates how to classify images of clothing items from the Fashion MNIST dataset using a Random Forest Classifier implemented with Scikit-learn.
+(We can use pytorch also, in real world normally we use CNN with pytorch for image classification).
 
 ## What this project does
 
@@ -20,7 +21,7 @@ Other models like Logistic Regression are too simplistic for image classificatio
 
 ## Impact and Problem Solved
 
-This model shows how basic machine learning techniques can automate the process of labeling fashion images. This is useful in e-commerce platforms for product tagging, search, and recommendations.
+This model shows how basic machine learning techniques can automate the process of labeling fashion images. This is useful in e-commerce platforms for product tagging, search, and recommendations (also build model on recommendation system based on reviews).
 
 ## Run Instructions
 
